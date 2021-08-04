@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="facebook_application_id">1691149634415906</string>
+    <string name="facebook_login_protocol_scheme">fb1691149634415906</string>
+
+    <string-array name="Genre">
+        <item>Adventure</item>
+        <item>Fantasy</item>
+        <item>Romance</item>
+        <item>Contemporary</item>
+        <item>Dystopian</item>
+        <item>Mystery</item>
+        <item>Horror</item>
+        <item>Thriller</item>
+        <item>Paranormal</item>
+        <item>Historical Fiction</item>
+        <item>Science Fiction</item>
+        <item>Memoir</item>
+        <item>Cooking</item>
+        <item>Art</item>
+        <item>Self-Help/Personal</item>
+        <item>Development</item>
+        <item>Motivational</item>
+        <item>Health</item>
+        <item>History</item>
+        <item>Travel</item>
+        <item>Guide/How-To</item>
+        <item>Families And Relationships</item>
+        <item>Humor</item>
+        <item>Children</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="?android:attr/selectableItemBackground"
+    android:padding="8dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/profilePic"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/account_circle"
+        android:background="@color/white"
+        android:padding="4dp"
+        app:strokeWidth="2dp"
+        android:adjustViewBounds="true"
+        android:gravity="center"
+        app:strokeColor="@android:color/holo_blue_bright"
+        app:shapeAppearance="@style/circular_image"/>
+</FrameLayout>
